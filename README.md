@@ -68,4 +68,16 @@
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Math
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+## Tree
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 <!---LeetCode Topics End-->
