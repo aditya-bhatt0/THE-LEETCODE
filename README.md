@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0006-zigzag-conversion) |
 | [1189-maximum-number-of-balloons](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [3838-weighted-word-mapping](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3838-weighted-word-mapping) |
 ## Counting
