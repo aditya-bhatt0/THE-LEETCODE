@@ -85,6 +85,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0189-rotate-array) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Tree
