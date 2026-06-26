@@ -6,6 +6,7 @@
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
@@ -59,6 +61,7 @@
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -88,12 +91,15 @@
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
