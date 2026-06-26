@@ -10,6 +10,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [1189-maximum-number-of-balloons](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [3838-weighted-word-mapping](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3838-weighted-word-mapping) |
 ## Counting
@@ -31,6 +32,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0189-rotate-array](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0189-rotate-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -111,4 +113,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0002-add-two-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
