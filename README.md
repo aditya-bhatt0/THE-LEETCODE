@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0013-roman-to-integer) |
 | [1189-maximum-number-of-balloons](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -13,6 +14,7 @@
 | [0005-longest-palindromic-substring](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0013-roman-to-integer) |
 | [1189-maximum-number-of-balloons](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [3838-weighted-word-mapping](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3838-weighted-word-mapping) |
 ## Counting
@@ -87,6 +89,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0189-rotate-array) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Tree
