@@ -17,6 +17,7 @@
 | [0008-string-to-integer-atoi](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0013-roman-to-integer) |
 | [1189-maximum-number-of-balloons](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3838-weighted-word-mapping](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3838-weighted-word-mapping) |
 ## Counting
 |  |
@@ -29,6 +30,7 @@
 | [0189-rotate-array](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0189-rotate-array) |
 | [0561-array-partition](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0561-array-partition) |
 | [0896-monotonic-array](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0896-monotonic-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
