@@ -6,6 +6,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0013-roman-to-integer) |
 | [1189-maximum-number-of-balloons](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -17,6 +18,7 @@
 | [0008-string-to-integer-atoi](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0013-roman-to-integer) |
 | [1189-maximum-number-of-balloons](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3838-weighted-word-mapping](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3838-weighted-word-mapping) |
 ## Counting
@@ -139,4 +141,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0561-array-partition) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
