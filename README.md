@@ -44,6 +44,7 @@
 | [0048-rotate-image](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0056-merge-intervals) |
 | [0189-rotate-array](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0189-rotate-array) |
 | [0561-array-partition](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0561-array-partition) |
 | [0896-monotonic-array](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0896-monotonic-array) |
@@ -99,6 +100,7 @@
 | [0015-3sum](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0056-merge-intervals) |
 | [0561-array-partition](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0561-array-partition) |
 | [1288-remove-covered-intervals](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
