@@ -8,6 +8,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -37,6 +38,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -55,6 +57,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Greedy
@@ -154,4 +157,12 @@
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
