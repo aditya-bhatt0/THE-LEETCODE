@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0041-first-missing-positive) |
 | [1189-maximum-number-of-balloons](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -39,6 +40,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0041-first-missing-positive) |
 | [0189-rotate-array](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0189-rotate-array) |
 | [0561-array-partition](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0561-array-partition) |
 | [0896-monotonic-array](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0896-monotonic-array) |
