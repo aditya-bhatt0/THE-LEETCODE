@@ -43,6 +43,7 @@
 | [0041-first-missing-positive](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0189-rotate-array) |
 | [0561-array-partition](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0561-array-partition) |
 | [0896-monotonic-array](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0896-monotonic-array) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0561-array-partition) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -169,6 +171,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0055-jump-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 ## Enumeration
 |  |
