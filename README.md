@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0189-rotate-array) |
 | [0561-array-partition](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0561-array-partition) |
 | [0896-monotonic-array](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0896-monotonic-array) |
@@ -51,6 +52,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0189-rotate-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -74,6 +76,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0015-3sum) |
 | [0561-array-partition](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0561-array-partition) |
 | [1288-remove-covered-intervals](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
