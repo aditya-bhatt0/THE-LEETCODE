@@ -34,6 +34,7 @@
 | [0015-3sum](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0189-rotate-array) |
 | [0561-array-partition](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0561-array-partition) |
 | [0896-monotonic-array](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0896-monotonic-array) |
@@ -57,6 +58,7 @@
 | [0015-3sum](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0189-rotate-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
