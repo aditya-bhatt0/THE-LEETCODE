@@ -41,6 +41,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0189-rotate-array) |
 | [0561-array-partition](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0561-array-partition) |
 | [0896-monotonic-array](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0896-monotonic-array) |
@@ -130,6 +131,7 @@
 | [0002-add-two-numbers](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0189-rotate-array) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -180,6 +182,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0048-rotate-image) |
 | [1301-number-of-paths-with-max-score](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 ## Union-Find
 |  |
