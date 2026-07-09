@@ -42,6 +42,7 @@
 | [0035-search-insert-position](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0189-rotate-array) |
 | [0561-array-partition](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0561-array-partition) |
 | [0896-monotonic-array](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0896-monotonic-array) |
@@ -146,6 +147,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0053-maximum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -166,6 +168,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0053-maximum-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 ## Enumeration
 |  |
