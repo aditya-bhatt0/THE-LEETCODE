@@ -53,6 +53,7 @@
 | [1288-remove-covered-intervals](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
@@ -142,6 +143,7 @@
 | [0013-roman-to-integer](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/0189-rotate-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -213,5 +215,6 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aditya-bhatt0/THE-LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
